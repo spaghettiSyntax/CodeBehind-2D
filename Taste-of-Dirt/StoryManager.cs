@@ -27,7 +27,6 @@ public class StoryManager : MonoBehaviour
 
     private SO_State so_State;
 
-    // Start is called before the first frame update
     private void Start()
     {
         wooshPlayed = false;
@@ -39,7 +38,6 @@ public class StoryManager : MonoBehaviour
         Prologue();
     }
 
-    // Update is called once per frame
     private void Update()
     {
         ManageState();

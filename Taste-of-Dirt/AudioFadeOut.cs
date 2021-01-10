@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿// (~˘▾˘)~ spaghettiSyntax
+using UnityEngine;
 using System.Collections;
 
 public static class AudioFadeOut
