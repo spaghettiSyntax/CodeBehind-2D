@@ -1,4 +1,4 @@
 # CodeBehind-2D
  Code behind on past and present 2D projects.
 
-[How to Sponser!](other_file.md)
+[How to Sponser!](FUNDING.yml)
