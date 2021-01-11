@@ -23,7 +23,6 @@ public class IntroManager : MonoBehaviour
         instance = this;
     }
 
-    // Start is called before the first frame update
     void Start()
     {
         introDialogueCounter = -1;
@@ -37,7 +36,6 @@ public class IntroManager : MonoBehaviour
         warriorText.enabled = false;
     }
 
-    // Update is called once per frame
     void Update()
     {
         CheckForUserInput();
